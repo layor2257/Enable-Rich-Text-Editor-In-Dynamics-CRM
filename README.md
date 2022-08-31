@@ -8,4 +8,4 @@ This repo describes steps and script that is need to be run on the client side s
 - Refresh the window and make sure Appointments rendered as expected
 
 
-<a href="https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/media/rich-text-control.png">link</a>
+[<a href="https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/media/rich-text-control.png">link</a>](https://docs.microsoft.com/en-us/power-apps/maker/model-driven-apps/media/rich-text-control.png)
